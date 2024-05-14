@@ -1,4 +1,4 @@
 # laravel project
-# creatin login and logout Data
+# Creatin Login and Logout Data
 #Delete and Update Data
-#see data your profile
+#See Data Your Profile
